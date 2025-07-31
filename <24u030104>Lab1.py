@@ -1,4 +1,4 @@
-while (1):
+while 1:
     marks = input("Enter marks between 0-100 (type exit/EXIT to exit):-")
     if marks=="EXIT" or marks=="exit":
         print("exited")
